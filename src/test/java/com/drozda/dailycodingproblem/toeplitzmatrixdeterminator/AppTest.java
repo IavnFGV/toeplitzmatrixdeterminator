@@ -1,4 +1,4 @@
-package com.drozda.dailycodingproblem;
+package com.drozda.dailycodingproblem.toeplitzmatrixdeterminator;
 
 import org.junit.jupiter.api.Test;
 
